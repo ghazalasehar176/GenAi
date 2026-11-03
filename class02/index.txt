@@ -1,0 +1,8 @@
+Create your API key with this url(https://console.groq.com/keys)
+from this url https://console.groq.com/docs/quickstart copy the API key code 
+from this url https://console.groq.com/docs/models copy the model name(openai/gpt-oss-20b)
+Run this in your terminal $env:GROQ_API_KEY="YOUR_NEW_API_KEY"
+
+Groq: AI models run karne ka platform.
+API Key: Python code ko Groq se connect karti hai.
+LLM: AI model jo questions ke answers deta hai.

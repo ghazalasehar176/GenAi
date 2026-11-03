@@ -1,0 +1,28 @@
+Prompt:
+i am practicing the interaction of python code with gemeni free llm . i want you to give me that code , i have now generate thhe api key from google ai studion
+
+
+I-GENERATE API KEY(Api_Key.py)
+1-Google Ai Studio
+ Get your api key
+
+
+2-Install the official SDK 
+  pip install google-genai
+
+II- WANT TO CHECK WHATS THE URL OF YOUR API KEY?
+    check file(Api_Key_Env.py)
+
+
+
+
+
+
+
+
+
+
+
+Jab bohot saare projects hon jinke packages aapas me takrayen, tab venv kaam aata hai.
+python -m venv venv
+venv\Scripts\activate
